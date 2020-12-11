@@ -1,0 +1,27 @@
+.meu{
+    text-align: center;
+    width: 150px;
+    height: 30px;
+    background-color: aqua;
+    opacity:0,9;
+    list-style:none;
+    cursor:pointer;
+}
+
+.meu:hover {
+    background-color:  black;
+    color: #D7C8B6;
+  }
+
+.fon{
+    background-color: aqua;
+}
+
+.MuiList-root, .MuiMenu-list, .MuiList-padding{
+    background-color: aqua;
+}
+
+.link{
+    text-decoration: none;
+    color: black;
+}
